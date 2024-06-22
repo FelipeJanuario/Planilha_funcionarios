@@ -1,6 +1,6 @@
-# Iniflex
+# Desenvolvimento em Java - Iniflex
 
-Esse projeto tem como objetivo, desenvolver um projeto em Java, onde é necessário a criação de uma operação em uma tabela. 
+Esse teste tem como objetivo, desenvolver um projeto em Java, onde é necessário a criação de uma operação em uma tabela de funcionários. 
 
 ![image](https://github.com/FelipeJanuario/Iniflex/assets/96888435/14679747-b9dc-42db-a4ff-51f34630c331)
 
