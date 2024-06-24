@@ -34,7 +34,7 @@ Na classe Principal, foi adicionado o nome dos funcionários dentro da classe fu
 
 – Imprimir quantos salários mínimos ganha cada funcionário, considerando que o salário mínimo é R$1212.00.
 
-Esse projeto foi criado utilizando VSCode e para a execução do projeto foi necessário a instalação do Java Develpment Kit, disponibilizado pela Microsoft para desenvolvimento de projetos em Java. Foi feita a configuração do Debbuger para apresentação dos valores pelo Debugger Interno onde o ambiente é mais limpo. Pelo modo default essas informações são listadas pelo terminal. 
+Esse projeto foi criado utilizando VSCode e para a execução do projeto foi necessário a instalação do Java Develpment Kit, disponibilizado pela Microsoft para desenvolvimento de projetos em Java. Foi feita a configuração do Debuger para apresentação dos valores pelo Debuger Interno onde o ambiente é mais limpo. Pelo modo default essas informações são listadas pelo terminal. 
 
 
 
