@@ -1,4 +1,4 @@
-# Desenvolvimento em Java - Iniflex
+# Desenvolvimento em Java - Planilha Funcionários
 
 Esse teste tem como objetivo, desenvolver um projeto em Java, onde é necessário a criação de uma operação em uma tabela de funcionários. 
 
