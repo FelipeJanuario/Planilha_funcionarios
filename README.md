@@ -45,6 +45,6 @@ https://github.com/FelipeJanuario/Iniflex/assets/96888435/5a8a79eb-b1e5-4efa-aac
 
 Fase atual.
 
-Desenvolvimento da interface Spring Boot para apresentar esses valores em uma página HTML e estilização em CSS.
+Desenvolvimento da interface em Spring Boot para apresentar esses valores em uma página HTML e estilização em CSS.
 
 
